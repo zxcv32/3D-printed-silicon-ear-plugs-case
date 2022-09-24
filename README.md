@@ -1,3 +1,8 @@
 # 3D printed silicon ear plugs case
 
-![](assets/Fusion360_22BEvzC7lB.png)
+Screenshot
+![Fusion 360 screenshot](assets/img.png)
+---
+
+Drawing
+![Engineering drawing](assets/drawing.png)
